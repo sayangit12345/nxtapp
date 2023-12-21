@@ -1,0 +1,42 @@
+.video-image {
+  height: 150px;
+  width: 300px;
+}
+.video-list-items {
+  margin: 10px;
+  width: 300px;
+  height: 320px;
+}
+.profile-description-container {
+  display: flex;
+  align-items: center;
+}
+.profile-description {
+  font-family: 'Roboto';
+  font-size: 16px;
+  font-weight: 300;
+}
+.profile-description-dark {
+  font-family: 'Roboto';
+  font-size: 16px;
+  font-weight: 300;
+  color: #ebebeb;
+}
+.followers-container {
+  display: flex;
+  align-items: center;
+  padding-top: 0;
+}
+.profile-views {
+  font-family: 'Roboto';
+  font-size: 16px;
+  font-weight: 300;
+  margin-right: 15px;
+}
+.profile-views-dark {
+  font-family: 'Roboto';
+  font-size: 16px;
+  font-weight: 300;
+  margin-right: 15px;
+  color: #ebebeb;
+}

@@ -1,0 +1,124 @@
+.login-container {
+  background-color: #e2e8f0;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.login-container-dark {
+  background-color: #000000;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.form-container {
+  background-color: #ffffff;
+  height: 400px;
+  width: 350px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.form-container-dark {
+  background-color: #181818;
+  height: 400px;
+  width: 350px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.login-logo {
+  height: 60px;
+  width: 200px;
+  margin-bottom: 20px;
+}
+.input-container {
+  display: flex;
+  flex-direction: column;
+  margin: 10px;
+}
+.username {
+  font-family: 'Roboto';
+  font-size: 14px;
+  color: #475569;
+  margin-bottom: 5px;
+}
+.username-dark {
+  font-family: 'Roboto';
+  font-size: 14px;
+  color: #ffffff;
+  margin-bottom: 5px;
+}
+.username-input {
+  height: 30px;
+  width: 250px;
+  background-color: transparent;
+  border: 1px solid #475569;
+  border-radius: 5px;
+  color: #231f20;
+}
+.password {
+  font-family: 'Roboto';
+  font-size: 14px;
+  color: #475569;
+  margin-bottom: 5px;
+}
+.password-dark {
+  font-family: 'Roboto';
+  font-size: 14px;
+  color: #ffffff;
+  margin-bottom: 5px;
+}
+.password-input {
+  height: 30px;
+  width: 250px;
+  background-color: transparent;
+  border: 1px solid #475569;
+  border-radius: 5px;
+  color: #231f20;
+}
+.password-input-dark {
+  height: 30px;
+  width: 250px;
+  color: #ffffff;
+  background-color: transparent;
+  border: 1px solid #475569;
+  border-radius: 5px;
+}
+.checkbox-container {
+  width: 250px;
+}
+
+.checkbox {
+  font-family: 'Roboto';
+  font-size: 18px;
+  margin-left: 4px;
+}
+.checkbox-dark {
+  font-family: 'Roboto';
+  font-size: 18px;
+  color: #ffffff;
+  margin-left: 4px;
+}
+.login-button {
+  background-color: #3b82f6;
+  color: #fff;
+  font-family: 'Roboto';
+  border-radius: 5px;
+  border-width: 0;
+  margin-top: 10px;
+  height: 30px;
+  width: 250px;
+  margin-bottom: 15px;
+}
+.submitstatus {
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: red;
+  margin-top: 10px;
+}

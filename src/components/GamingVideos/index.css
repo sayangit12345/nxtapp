@@ -1,0 +1,29 @@
+.gaming-icon {
+  height: 350px;
+  width: 250px;
+}
+.gaming-list-item {
+  margin: 10px;
+}
+.gaming-description {
+  font-family: 'Roboto';
+  font-size: 16px;
+  font-weight: 300;
+}
+.gaming-heading {
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: 500;
+}
+.gaming-description-dark {
+  font-family: 'Roboto';
+  font-size: 16px;
+  font-weight: 300;
+  color: #ebebeb;
+}
+.gaming-heading-dark {
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: 500;
+  color: #ebebeb;
+}

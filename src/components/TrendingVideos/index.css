@@ -1,0 +1,46 @@
+.trending-icon {
+  height: 200px;
+  width: 400px;
+}
+.trending-list-item {
+  display: flex;
+  margin: 10px;
+}
+.trending-heading {
+  font-family: 'Roboto';
+  font-size: 22px;
+  font-weight: 500;
+}
+.trending-video-details {
+  margin-left: 15px;
+  width: 600px;
+}
+.tredning-followets-container {
+  display: flex;
+  align-items: center;
+}
+.trending-description {
+  font-family: 'Roboto';
+  font-size: 16px;
+  font-weight: 300;
+  margin-right: 15px;
+}
+.trending-publish-description {
+  font-family: 'Roboto';
+  font-size: 16px;
+  font-weight: 300;
+  margin-left: 10px;
+}
+.trending-description-dark {
+  font-family: 'Roboto';
+  font-size: 16px;
+  font-weight: 300;
+  color: #ebebeb;
+  margin-right: 15px;
+}
+.trending-heading-dark {
+  font-family: 'Roboto';
+  font-size: 22px;
+  font-weight: 500;
+  color: #ebebeb;
+}

@@ -1,0 +1,70 @@
+.gaming-navbar-video-container {
+  display: flex;
+}
+.gaming-videos-container {
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  width: 1200px;
+}
+.trending-heading-bar {
+  background-color: #cccccc;
+  height: 140px;
+  width: 1250px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.trending-heading-bar-dark {
+  background-color: #231f20;
+  height: 140px;
+  width: 1250px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.trending-navbar {
+  display: flex;
+  flex-direction: column;
+}
+.trending-button {
+  height: 130px;
+  width: 130px;
+  border-radius: 80px;
+  border-width: 0px;
+  margin-left: 30px;
+}
+.trending-icons {
+  height: 50px;
+  width: 50px;
+}
+.trending-headings {
+  font-family: 'Roboto';
+  font-size: 28px;
+  font-weight: bold;
+  margin-left: 20px;
+}
+.trending-button-dark {
+  height: 130px;
+  width: 130px;
+  border-radius: 80px;
+  border-width: 0px;
+  margin-left: 30px;
+  background-color: #181818;
+}
+.trending-icons-dark {
+  height: 50px;
+  width: 50px;
+  color: #ff0000;
+}
+.trending-headings-dark {
+  font-family: 'Roboto';
+  font-size: 28px;
+  font-weight: bold;
+  margin-left: 20px;
+  color: #ebebeb;
+}
+.gaming-container-dark {
+  background-color: #000000;
+}
